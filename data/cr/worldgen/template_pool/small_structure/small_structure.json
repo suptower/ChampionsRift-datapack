@@ -1,0 +1,33 @@
+{
+    "name": "cr:small_structure",
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "weight": 1,
+            "element": {
+                "location": "cr:small_structure/tiny_chest_deepslate_bricks",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"   
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "cr:small_structure/tiny_chest_deepslate_tiles",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"   
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "cr:small_structure/tiny_chest_oak_wood",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"   
+            }
+        }
+    ]
+}
